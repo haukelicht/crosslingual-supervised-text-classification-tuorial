@@ -1,0 +1,17 @@
+# git ignore file
+
+# files
+
+.DS_Store
+*.Rproj
+*.tex
+*presentation.Rmd
+README.html
+
+# folders
+.Rproj.user/
+analysis/
+imgs/
+figures/
+outlines/
+slides/
