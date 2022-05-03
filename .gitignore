@@ -7,6 +7,20 @@
 *.tex
 *presentation.Rmd
 README.html
+#
+# misc Tex files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.run.xml
+*.snm
+*.toc
+*.xdv 
 
 # folders
 .Rproj.user/
